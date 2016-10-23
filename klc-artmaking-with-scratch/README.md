@@ -7,8 +7,9 @@ HOW TO USE:
 * Update the slides (in a text editor): 
     * Edit the facilitator info (slide 2 + final slide) with your photo and details
     * Edit the Agenda (slide 5) if selecting different activities, or to shift timing according to age groups (Ages 6-8 have one activity with a break after the code-along. ages 7-12 have a break in between their two activities.)
-* Practice going through the selected activities in Scratch.
-* Print Facilitator Guide and Solution Sheets for chosen activities.
+* Test out the provided Scratch Teacher account.
+* Practice going through the selected activities in Scratch. 
+* Print Facilitator Guide and Solution Sheets for chosen activities. 
 
 ## During Workshsop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
