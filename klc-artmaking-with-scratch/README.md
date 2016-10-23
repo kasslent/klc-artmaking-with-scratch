@@ -13,7 +13,7 @@ HOW TO USE:
 ## During Workshsop
 * Have Facilitator Guide accessible throughout the workshop, follow along in the guide for support.
 * Use the slides to support the Kick-Off and Introduction.
-* After the code-along and all activities, save time to show examples up front, or have learners move to other computers to test out each other's final projects. 
+* After the code-along, break, and work session(s), save time to show examples up front, or have learners move to other computers to test out each other's final projects. 
 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
